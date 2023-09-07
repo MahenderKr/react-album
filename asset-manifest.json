@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/react-album2/static/js/main.4663029f.js",
-    "index.html": "/react-album2/index.html",
-    "main.4663029f.js.map": "/react-album2/static/js/main.4663029f.js.map"
+    "main.js": "/react-album/static/js/main.4663029f.js",
+    "index.html": "/react-album/index.html",
+    "main.4663029f.js.map": "/react-album/static/js/main.4663029f.js.map"
   },
   "entrypoints": [
     "static/js/main.4663029f.js"
